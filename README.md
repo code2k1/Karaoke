@@ -1,8 +1,7 @@
 # Karaoke
-Mô tả: Ứng dụng desktop giúp quản lý quán Karaoke
-Thành viên: 1
-Công nghệ xử dụng: Java, Hibernate, Mongodb, RMI
-
+- Mô tả: Ứng dụng desktop giúp quản lý quán Karaoke
+- Thành viên: 1
+- Công nghệ xử dụng: Java, Hibernate, Mongodb, RMI
 -Giao diện:
   + Đăng nhập:
     ![Login](https://user-images.githubusercontent.com/75231764/218382301-b0c5a1ad-0735-4753-be92-69845bf7ff90.png)
